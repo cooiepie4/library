@@ -1,0 +1,14 @@
+#new-book-btn{
+    background-color: blue;
+    color:white;
+    border: solid blue;
+    width: 100px;
+    border-radius: 5px;
+    display:block; 
+    margin: 0 auto;
+}
+
+
+#remove{
+    
+}
